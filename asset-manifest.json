@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KABADA-first/static/css/main.5f361e03.chunk.css",
+    "main.js": "/KABADA-first/static/js/main.c3b9b234.chunk.js",
+    "main.js.map": "/KABADA-first/static/js/main.c3b9b234.chunk.js.map",
+    "runtime-main.js": "/KABADA-first/static/js/runtime-main.48d64a91.js",
+    "runtime-main.js.map": "/KABADA-first/static/js/runtime-main.48d64a91.js.map",
+    "static/js/2.2c60708e.chunk.js": "/KABADA-first/static/js/2.2c60708e.chunk.js",
+    "static/js/2.2c60708e.chunk.js.map": "/KABADA-first/static/js/2.2c60708e.chunk.js.map",
+    "index.html": "/KABADA-first/index.html",
+    "precache-manifest.66b7ce5db30a9bbd7891b18c978048df.js": "/KABADA-first/precache-manifest.66b7ce5db30a9bbd7891b18c978048df.js",
+    "service-worker.js": "/KABADA-first/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/KABADA-first/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2c60708e.chunk.js.LICENSE.txt": "/KABADA-first/static/js/2.2c60708e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/KABADA-first/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48d64a91.js",
+    "static/js/2.2c60708e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c3b9b234.chunk.js"
+  ]
+}
